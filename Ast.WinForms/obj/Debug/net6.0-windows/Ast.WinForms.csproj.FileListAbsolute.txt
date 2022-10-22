@@ -1,0 +1,8 @@
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.csproj.AssemblyReference.cache
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\bead_aszt.Aszteroid.resources
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.csproj.GenerateResource.cache
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.AssemblyInfoInputs.cache
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.AssemblyInfo.cs
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.csproj.CoreCompileInputs.cache
+C:\EVA_C#\asteroid\Ast.WinForms\obj\Debug\net6.0-windows\Ast.WinForms.Properties.Resources.resources

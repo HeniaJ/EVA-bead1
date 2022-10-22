@@ -1,0 +1,5 @@
+C:\EVA_C#\asteroid\asteroid\obj\Debug\net6.0\asteroid.csproj.AssemblyReference.cache
+C:\EVA_C#\asteroid\asteroid\obj\Debug\net6.0\asteroid.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVA_C#\asteroid\asteroid\obj\Debug\net6.0\asteroid.AssemblyInfoInputs.cache
+C:\EVA_C#\asteroid\asteroid\obj\Debug\net6.0\asteroid.AssemblyInfo.cs
+C:\EVA_C#\asteroid\asteroid\obj\Debug\net6.0\asteroid.csproj.CoreCompileInputs.cache
